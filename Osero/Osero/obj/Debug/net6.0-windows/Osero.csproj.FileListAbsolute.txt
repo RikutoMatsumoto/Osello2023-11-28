@@ -1,0 +1,71 @@
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.exe
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.deps.json
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.runtimeconfig.json
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.dll
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.pdb
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.Form1.resources
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.csproj.GenerateResource.cache
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.AssemblyInfoInputs.cache
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.AssemblyInfo.cs
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.csproj.CoreCompileInputs.cache
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.dll
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\refint\Osero.dll
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.pdb
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.genruntimeconfig.cache
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\ref\Osero.dll
+C:\Users\Evoltech\Desktop\オセロ制作\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.Properties.Resources.resources
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.exe
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.deps.json
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.runtimeconfig.json
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.dll
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.pdb
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.Form1.resources
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.Properties.Resources.resources
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.csproj.GenerateResource.cache
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.AssemblyInfoInputs.cache
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.AssemblyInfo.cs
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.csproj.CoreCompileInputs.cache
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.dll
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\refint\Osero.dll
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.pdb
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.genruntimeconfig.cache
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\ref\Osero.dll
+C:\Users\g108\Desktop\学習\オセロ\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.result.resources
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.exe
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.deps.json
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.runtimeconfig.json
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.dll
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.pdb
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.Form1.resources
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.Properties.Resources.resources
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.result.resources
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.csproj.GenerateResource.cache
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.AssemblyInfoInputs.cache
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.AssemblyInfo.cs
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.csproj.CoreCompileInputs.cache
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.dll
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\refint\Osero.dll
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.pdb
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.genruntimeconfig.cache
+C:\Users\Evoltech\Desktop\オセロ　提出用\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\ref\Osero.dll
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.exe
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.deps.json
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.runtimeconfig.json
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.dll
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\bin\Debug\net6.0-windows\Osero.pdb
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.Form1.resources
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.Properties.Resources.resources
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.result.resources
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.csproj.GenerateResource.cache
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.AssemblyInfoInputs.cache
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.AssemblyInfo.cs
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.csproj.CoreCompileInputs.cache
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.dll
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\refint\Osero.dll
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.pdb
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\Osero.genruntimeconfig.cache
+C:\Users\Evoltech\Desktop\オセロ　提出用 - コピー\Evol_Education\Osero\Osero\obj\Debug\net6.0-windows\ref\Osero.dll

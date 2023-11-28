@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mlqx1a4mM/yWv2V1U3Tn5iOhvPvSMJpYgkSM1bWiK8IVyyPz/mMqN8hU2/TgtaCcNwr0xuHoDvIiW5L3WuGcjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Evoltech\\Desktop\\オセロ　提出用\\Evol_Education\\Osero\\Osero\\Osero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Evoltech\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.21\\microsoft.netcore.app.runtime.win-x86.6.0.21.nupkg.sha512",
+    "C:\\Users\\Evoltech\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.21\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.21.nupkg.sha512",
+    "C:\\Users\\Evoltech\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.21\\microsoft.aspnetcore.app.runtime.win-x86.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
